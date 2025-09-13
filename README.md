@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Júlia Galvão  
 
-<!--
-**juliagalvao/juliagalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Lawyer (Brazil) and Master’s student in **Law, Data & AI (Erasmus Mundus)**  
+🌍 Currently based in **León, Spain**  
+💻 Building a portfolio in:  
+- **Data Protection** (GDPR, DPIAs, SCCs, Privacy Policies)  
+- **Trust & Safety** (online child protection, content moderation, DSA)  
+- **Cybersecurity Law / GRC** (ISO 27001, NIS2, incident response)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Portfolio (in progress)
+- DPIA (Data Protection Impact Assessment)  
+- Privacy Policy draft for SME  
+- Flowchart for Content Moderation  
+- Risk Assessment (DSA-style)  
+- Incident Response Plan (legal focus)
+  
+---
+
+## 🔗 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/juliagalvao13)  
+- 📧 Contact: juliagalvao6@gmail.com
