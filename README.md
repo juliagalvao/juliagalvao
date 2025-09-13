@@ -6,7 +6,7 @@
 - **Data Protection** (GDPR, DPIAs, SCCs, Privacy Policies)  
 - **Trust & Safety** (online child protection, content moderation, DSA)  
 - **Cybersecurity Law / GRC** (ISO 27001, NIS2, incident response)
-- - **SEO & Digital Strategy** (on-page optimization, content governance, analytics)
+- **SEO & Digital Strategy** (on-page optimization, content governance, analytics)
 
 ---
 
